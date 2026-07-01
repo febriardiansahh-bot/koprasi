@@ -1,4 +1,14 @@
 # 🏦 KoperasiApp — Panduan Instalasi & Penggunaan
+# Aplikasi Koperasi
+
+Tugas proyek akhir mata kuliah Pemrograman Web.
+
+## Cara Menjalankan
+1. Pastikan Composer dan PHP sudah terinstall.
+2. Clone repositori ini.
+3. Jalankan `composer install`.
+4. Copy `.env.example` menjadi `.env`.
+5. Jalankan `php artisan serve`.
 
 > **Aplikasi Manajemen Koperasi Simpan Pinjam**  
 > Versi 1.0 · Laravel 13 · PHP 8.x · MySQL 8.x
